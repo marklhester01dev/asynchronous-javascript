@@ -1,0 +1,31 @@
+#gh-app {
+  font-family: sans-serif;
+  max-width: 400px;
+  margin: 40px auto;
+}
+#profile {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  min-height: 60px;
+}
+#profile img {
+  width: 50px;
+  border-radius: 50%;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+#repo-list {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+#repo-list li {
+  margin-bottom: 4px;
+}
+.error {
+  color: red;
+}
+
+.grey{
+  color: darkgray;
+}
