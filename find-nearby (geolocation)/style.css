@@ -1,0 +1,11 @@
+#locate-app {
+  text-align: center;
+  margin-top: 40px;
+}
+#coords {
+  font-weight: bold;
+}
+
+.error {
+  color: red;
+}
