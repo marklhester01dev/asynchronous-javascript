@@ -1,0 +1,17 @@
+#search-app {
+  max-width: 400px;
+  margin: 40px auto;
+  font-family: sans-serif;
+}
+#results li {
+  padding: 6px;
+  border-bottom: 1px solid #eee;
+}
+
+.error {
+  color: red;
+}
+
+.waiting {
+  color: darkgrey;
+}
